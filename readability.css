@@ -108,3 +108,5 @@ body{font-weight:400;font-size:16px;line-height:2}
 .access{position:relative;isolation:isolate;overflow:hidden}.access:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;background-image:url('assets/access-flower-pattern-v1.png');background-repeat:repeat;background-size:105px 114px;mix-blend-mode:multiply;opacity:.22;-webkit-mask-image:linear-gradient(45deg,#000 0%,rgba(0,0,0,.65) 24%,rgba(0,0,0,.2) 51%,transparent 76%);mask-image:linear-gradient(45deg,#000 0%,rgba(0,0,0,.65) 24%,rgba(0,0,0,.2) 51%,transparent 76%)}@media(max-width:700px){.access:before{background-size:82px 89px;opacity:.18}}
 
 .access:before{background-size:70px 76px}@media(max-width:700px){.access:before{background-size:55px 60px}}
+
+.access-hours{border:1px solid #c7cfc2}.access-hours th,.access-hours td{border:1px solid #c7cfc2}
